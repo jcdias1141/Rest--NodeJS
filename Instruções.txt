@@ -1,0 +1,3 @@
+1-Precisaremos que o nodejs esteja instalado em sua máquina.
+
+2-git remote add origin https://github.com/jcdias1141/Rest-- NodeJS.gitTambém utilizaremos o Postman para consumir nossas rotas.
